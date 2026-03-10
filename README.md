@@ -41,3 +41,6 @@ An IoT-based smart home monitoring system built with the ESP8266 (NodeMCU). This
    const char* ssid = "YOUR_WIFI_NAME";           
    const char* password = "YOUR_WIFI_PASSWORD";   
    String writeAPIKey = "YOUR_THINGSPEAK_API_KEY";
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a10f194a-1833-49d1-9580-53d31801c7af" />
+<img width="1920" height="1080" alt="Screenshot (258)" src="https://github.com/user-attachments/assets/f7024f22-a6ba-4c9a-81be-9907b84c3c6d" />
+
